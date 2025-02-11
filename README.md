@@ -1,8 +1,22 @@
 ---
 description: Somehow you ended up here so you may as well take a browse :)
 cover: >-
-  https://images.unsplash.com/photo-1517052269751-4ae3ad86cc59?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxlYXJ0aCUyMGhvcml6b258ZW58MHx8fHwxNzM5MzE1ODQwfDA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1529788295308-1eace6f67388?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzdW4lMjBzcGFjZXxlbnwwfHx8fDE3MzkzMTc1MTl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ⏳ Running out of time.
