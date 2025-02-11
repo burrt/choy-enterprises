@@ -1,3 +1,7 @@
+---
+description: 2024.05.20
+---
+
 # Is Pair Programming Dead?
 
 I must reiterate that these are just transient thoughts that are often not thought through in great depth!

@@ -1,3 +1,7 @@
+---
+description: 2019.06.15
+---
+
 # One year at VMware
 
 So it's been one year working at VMware - my first year working professionally! As with most graduates, it's always overwhelming going from full-time study to full-time work. It really has been one hell of a ride.
@@ -28,7 +32,7 @@ With many collaborative tools like Slack, Skype etc. it can get pretty overwhelm
 
 ### Meetings
 
-This is the classic developer (or just everyone) joke where meetings are seen as disruptive, unproductive and unnecessary - we all just want to put our heads down and *code code code!* Coming from uni where you can just about do that and simply have a quick chat about stuff in class or your break, having regular meetings takes time adjusting to (particularly for the introverts).
+This is the classic developer (or just everyone) joke where meetings are seen as disruptive, unproductive and unnecessary - we all just want to put our heads down and _code code code!_ Coming from uni where you can just about do that and simply have a quick chat about stuff in class or your break, having regular meetings takes time adjusting to (particularly for the introverts).
 
 Part of the agile workflow is to have regular stand-ups, retrospectives and additional meetings e.g. sprint reviews. Depending on your team, these could be more or less.
 
@@ -53,7 +57,7 @@ An important realization that I've made perhaps a little too late is that **not 
 
 This made me reconsider my approach and thoughts on how to address team concerns, communication and collaboration.
 
-Sometimes when you're a graduate, you really want things to change *quickly* - which I believe is a trait amongst all young people and generation divides - the rate of change is often too slow. Some things like cultivating a healthy team culture takes a really long time. Team culture is an area I'm really passionate about and I believe one day, I will be working more closely in that area.
+Sometimes when you're a graduate, you really want things to change _quickly_ - which I believe is a trait amongst all young people and generation divides - the rate of change is often too slow. Some things like cultivating a healthy team culture takes a really long time. Team culture is an area I'm really passionate about and I believe one day, I will be working more closely in that area.
 
 ## Back to work
 

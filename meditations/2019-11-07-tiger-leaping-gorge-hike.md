@@ -1,3 +1,7 @@
+---
+description: 2019.11.07
+---
+
 # Tiger Leaping Gorge Hike!
 
 We did the hike in January 2019 so this was in winter! Temperatures were cold but far from unbearable; on average, the temperature ranged from 0 – 20 Degrees Celsius give or take. For the most part of the day, a shirt was fine since there were plenty of sun and the exercise kept you warm!
@@ -14,9 +18,9 @@ Some really useful resources, be sure to read!
 
 ### iOS applications
 
-These are some *must have* iOS applications for the hike! If possible, install them before travelling to China in case you have issues with app availabilities.
+These are some _must have_ iOS applications for the hike! If possible, install them before travelling to China in case you have issues with app availabilities.
 
-* **Apple Maps** – this seems to be the only decent English navigation, it is limited with the landmarks so be patient and careful with what you're searching for. There are many blogs referencing Quiatou being the start of the hike, search for *Hutiaoxia County*
+* **Apple Maps** – this seems to be the only decent English navigation, it is limited with the landmarks so be patient and careful with what you're searching for. There are many blogs referencing Quiatou being the start of the hike, search for _Hutiaoxia County_
 * **Google Translate** – very important. Download the offline translations and make sure you have a SIM card for data.
 * **CityMaps2Go** – this contains the whole Tiger Leaping Gorge trail! It's actually very accurate when you have GPS turned on – simply download the maps for the Lijiang area. The app is often on sale so grab it beforehand if you can.
 * **AllTrails (Paid)** – I didn't get a chance to use this but I have seen a trail mapped by others which seems to provide much more detail.
@@ -51,10 +55,10 @@ Here's some random snippets of information before you decide to commit to the hi
 * 11:30 - Arrive Tina's Guesthouse (lunch/purchase tickets for 15.30 bus to Lijiang)
 * 11.55 - Depart Tina's Guesthouse
 * 12:00 - Arrive at the start of the hike to the gorge (by car)
-* 12.45:  Arrive bottom of canyon/Middle Leaping Gorge
+* 12.45: Arrive bottom of canyon/Middle Leaping Gorge
 * 13:30 - Start hike back up
-* 14:30:  Arrive at Tina's Guesthouse (rest)
-* 15.30:  Bus to Lijiang (we took an earlier bus which was unexpectedly available!)
+* 14:30: Arrive at Tina's Guesthouse (rest)
+* 15.30: Bus to Lijiang (we took an earlier bus which was unexpectedly available!)
 
 ## The Hike
 
@@ -82,13 +86,13 @@ It was pretty harsh under the sun as there was very little foliage to shelter un
 
 #### Naxi Guesthouse
 
-When reached the Naxi Guesthouse at ~12:30, we were definitely hungry! They had English menus and the fried rice was an excellent meal for the rest of the journey. I suggest **not to rush out** of the GH since the most strenuous part of the hike is coming up – the 28 bends. Take your time to rest your feet and enjoy the serenity of the village.
+When reached the Naxi Guesthouse at \~12:30, we were definitely hungry! They had English menus and the fried rice was an excellent meal for the rest of the journey. I suggest **not to rush out** of the GH since the most strenuous part of the hike is coming up – the 28 bends. Take your time to rest your feet and enjoy the serenity of the village.
 
 #### 28 bends
 
 In my opinion, it wasn't that hard for me but my sister found it very difficult. It's basically long windy, stone-carved steps to the "top". There is no harm taking it slowly and breathing properly since at this point, you're quite high up!
 
-After the 28 bends, it's a relatively easy walk to the Halfway Guest House - we reached there at ~18:30. In the same village, there are plenty of alternatives like the Tea Horse and ComeInn GH (it isn't open during winter). When we arrived and checked in – we were so glad to shed our backpacks and rest our feet. With all hikes of 6+ hours, feet soreness can be a factor! The Halfway GH offers different tiers of rooms; some in the "newer" building and thereafter on different floor levels. We were simply glad we had hot showers and electric blankets!
+After the 28 bends, it's a relatively easy walk to the Halfway Guest House - we reached there at \~18:30. In the same village, there are plenty of alternatives like the Tea Horse and ComeInn GH (it isn't open during winter). When we arrived and checked in – we were so glad to shed our backpacks and rest our feet. With all hikes of 6+ hours, feet soreness can be a factor! The Halfway GH offers different tiers of rooms; some in the "newer" building and thereafter on different floor levels. We were simply glad we had hot showers and electric blankets!
 
 ### Day Two
 

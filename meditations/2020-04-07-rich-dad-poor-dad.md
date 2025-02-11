@@ -1,35 +1,39 @@
+---
+description: 2020.04.07
+---
+
 # Rich Dad Poor Dad
 
 So I've finally ventured into reading some finance when someone recommended me "Rich Dad Poor Dad" by Robert Kiyosaki. It was perhaps one of the best reads I've had in a long time, in the sense that I stayed up to finish it and even read it as an eBook! Both behaviors I haven't done in many years haha.
 
 On a more serious note, upon completing the book, it kept me awake rolling in my bed as I pondered many of its (well, for me anyway) revolutionizing insights into the world of money. What is deceiving in the book is that its core message isn't about getting rich - instead, it emphasizes **intelligence** - specifically, financial intelligence. You can draw many parallels to other fields where the growth mindset, pragmatism and critical thinking are common talking points, albeit more implicit.
 
-In many ways, the "Poor Dad" in the story is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different, was and *is* one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
+In many ways, the "Poor Dad" in the story is very much myself and my own dad - and after completing the book, I'm very inspired to change this. There were so many epiphany moments whilst reading that I was often ashamed in my own ignorance - being financially illiterate. On the flip-side, the ecstasy of learning something so new and different, was and _is_ one of the greatest joys in life. This book I believe will be a catalyst for my future financial pursuits and perhaps one of those life changing moments - as Kiyosaki referenced Robert Frost's "The Road Not Taken".
 
 Although I feel I will revisit his book often, I do want to etch his key lessons in my blog.
 
 ## Lessons
 
-1. [The Rich Don't Work For Money](#the-rich-dont-work-for-money)
-2. [Why Teach Financial Literacy?](#why-teach-financial-literacy)
-3. [Mind Your Own Business](#mind-your-own-business)
-4. [The History of Taxes and the Power of Corporations](#the-history-of-taxes-and-the-power-of-corporations)
-5. [The Rich Invent Money](#the-rich-invent-money)
-6. [Work to Learn - Don't Work for Money](#work-to-learn---dont-work-for-money)
-7. [Overcoming Obstacles](#overcoming-obstacles)
-8. [Getting Started](#getting-started)
-9. [Still Want More? Here Are Some To Do's](#still-want-more-here-are-some-todos)
-10. [Final Thoughts](#final-thoughts)
+1. [The Rich Don't Work For Money](2020-04-07-rich-dad-poor-dad.md#the-rich-dont-work-for-money)
+2. [Why Teach Financial Literacy?](2020-04-07-rich-dad-poor-dad.md#why-teach-financial-literacy)
+3. [Mind Your Own Business](2020-04-07-rich-dad-poor-dad.md#mind-your-own-business)
+4. [The History of Taxes and the Power of Corporations](2020-04-07-rich-dad-poor-dad.md#the-history-of-taxes-and-the-power-of-corporations)
+5. [The Rich Invent Money](2020-04-07-rich-dad-poor-dad.md#the-rich-invent-money)
+6. [Work to Learn - Don't Work for Money](2020-04-07-rich-dad-poor-dad.md#work-to-learn---dont-work-for-money)
+7. [Overcoming Obstacles](2020-04-07-rich-dad-poor-dad.md#overcoming-obstacles)
+8. [Getting Started](2020-04-07-rich-dad-poor-dad.md#getting-started)
+9. [Still Want More? Here Are Some To Do's](2020-04-07-rich-dad-poor-dad.md#still-want-more-here-are-some-todos)
+10. [Final Thoughts](2020-04-07-rich-dad-poor-dad.md#final-thoughts)
 
 ### The Rich Don't Work for Money
 
 > The poor and middle class work **for money**. The rich have money work **for them**.
 
-This was my favorite part of the book when Kiyosaki retells his childhood memories of wanting to be rich in order to "hangout with the cool kids". The lessons the "rich" father instilled into him and his friend was a turning point for both of them. In their naivety and creativity, they thought themselves geniuses when they melted used toothpaste bottles (copper back then) gathered from the neighborhood into money. They were so close to the secret to getting rich - in the sense to not *work for money*.
+This was my favorite part of the book when Kiyosaki retells his childhood memories of wanting to be rich in order to "hangout with the cool kids". The lessons the "rich" father instilled into him and his friend was a turning point for both of them. In their naivety and creativity, they thought themselves geniuses when they melted used toothpaste bottles (copper back then) gathered from the neighborhood into money. They were so close to the secret to getting rich - in the sense to not _work for money_.
 
 > Fear and greed - controlling emotions
 
-It never stops surprises me when the financial world talks about emotions - I have always found the industry very similar to the tech industry where it's a rather "un-emotional" environment. The difference between the two is that the financial sector benefits (or should I say, *exploits*) from the emotional element in most peoples' dealings with money. Some of the tech industry in a sense, do as well, for example social media. But the process of creating software is often a very logical, rational and un-emotional process. And the end product is increasingly trying to leverage our emotions - notice there are "reaction" emojis now - and the improvements in AI is only accelerating this process.
+It never stops surprises me when the financial world talks about emotions - I have always found the industry very similar to the tech industry where it's a rather "un-emotional" environment. The difference between the two is that the financial sector benefits (or should I say, _exploits_) from the emotional element in most peoples' dealings with money. Some of the tech industry in a sense, do as well, for example social media. But the process of creating software is often a very logical, rational and un-emotional process. And the end product is increasingly trying to leverage our emotions - notice there are "reaction" emojis now - and the improvements in AI is only accelerating this process.
 
 So going back to the book, the rich dad explains how most people simply work because of their **fear** of losing what they have i.e. lifestyle, house etc. This leads to the continuous cycle of waking up everyday under the fear factor, working hard to "work for money" so that they can pay their bills but the **greed** always grows. Most people think that when they get rich or obtain a pay-rise/promotion, then all their problems will be solved. But this is seldom the case, rather it becomes the new "normal" and the fear of losing their living standards upgrade forces them through the grind once more without ever becoming richer - this is the **trap** the rich dad tells the kids.
 
@@ -37,10 +41,9 @@ So going back to the book, the rich dad explains how most people simply work bec
 
 This is fear dominating when people just think of "paying the bills". Instead of being afraid of money, learn to master (control) it by understanding what money is and how it works. Ignorance leads to fear and greed.
 
-> To live a life dictated by the size of a paycheck is not really living a life. That's cruel, and that's the trap I want you to avoid.
-> A job is a short-term solution to a long-term problem. Don't let money control you.
+> To live a life dictated by the size of a paycheck is not really living a life. That's cruel, and that's the trap I want you to avoid. A job is a short-term solution to a long-term problem. Don't let money control you.
 
-When the kids overcame the pay-rise offered by the rich dad at the shop, they *overcame their greed*. And when they agreed to work for *free*, they *overcame the fear* of money.
+When the kids overcame the pay-rise offered by the rich dad at the shop, they _overcame their greed_. And when they agreed to work for _free_, they _overcame the fear_ of money.
 
 > Keep using your **brain**, work for free, and soon your mind will show you ways of making money far beyond what I could ever pay you.
 
@@ -79,8 +82,7 @@ Assets put money into your pocket. Rich people buy assets and continue to invest
 
 #### Cash flow of a liability
 
-The key take-way is that liabilities take money out of your pocket and flow into the expenses category.
-Middle class people spend their lives buying liabilities (they think they're assets).
+The key take-way is that liabilities take money out of your pocket and flow into the expenses category. Middle class people spend their lives buying liabilities (they think they're assets).
 
 ![Liability](https://i.imgur.com/iVXjL6al.png)
 
@@ -100,21 +102,15 @@ Middle class people spend their lives buying liabilities (they think they're ass
 
 > A person can be highly educated, professionally successful, and financially illiterate.
 
-The fallacy we are trapped in is that we are educated to get a job, earn money and make more money - the belief that money will solve your problems.
-Because financial aptitude is missing from our education, working harder will only exacerbate our problems instead of solving them.
+The fallacy we are trapped in is that we are educated to get a job, earn money and make more money - the belief that money will solve your problems. Because financial aptitude is missing from our education, working harder will only exacerbate our problems instead of solving them.
 
-The classic story of hardworking people who get married, move into their rented apartment together, realize that they save money since it's one room now. But after some time, it's a bit cramped so they save money to buy a house.
-Career focus, and long hours are put in to achieve the dream house - as their incomes increase, so do their **expenses**.
+The classic story of hardworking people who get married, move into their rented apartment together, realize that they save money since it's one room now. But after some time, it's a bit cramped so they save money to buy a house. Career focus, and long hours are put in to achieve the dream house - as their incomes increase, so do their **expenses**.
 
-The **biggest expense is taxes** - as you earn more, you pay more in tax. So once the couple buy their dream house, they buy a new car, furniture, appliances etc. Suddenly the liabilities section is over-populated.
-With mortgage and credit card debt growing - they are now in the **Rat Race** - the race to the bottom.
+The **biggest expense is taxes** - as you earn more, you pay more in tax. So once the couple buy their dream house, they buy a new car, furniture, appliances etc. Suddenly the liabilities section is over-populated. With mortgage and credit card debt growing - they are now in the **Rat Race** - the race to the bottom.
 
-Once a baby comes along, they work harder and so incomes increase, so does the taxes. *And the cycle continues...*
-Typically their only source of income is their paycheck and therefore are entirely dependent on their employer. So when "opportunities of a decade" comes along, they can't take advantage of them - they are so busy working hard, taxed to the max and are loaded with debt.
+Once a baby comes along, they work harder and so incomes increase, so does the taxes. _And the cycle continues..._ Typically their only source of income is their paycheck and therefore are entirely dependent on their employer. So when "opportunities of a decade" comes along, they can't take advantage of them - they are so busy working hard, taxed to the max and are loaded with debt.
 
-Most people allow **money to control them**, by simply getting up to leave for work every morning to work harder is simply shooting themselves in the foot. Because they do not understand money or how to manage it, they cannot control money.
-Instead they follow the crowd, they do what every one says: "diversify", "your home is an asset", "your home is your biggest investment",  "get a safe job", "don't take risks"...
-The fear of standing out from the crowd and FOMO is even stronger with the rise of social media and technology.
+Most people allow **money to control them**, by simply getting up to leave for work every morning to work harder is simply shooting themselves in the foot. Because they do not understand money or how to manage it, they cannot control money. Instead they follow the crowd, they do what every one says: "diversify", "your home is an asset", "your home is your biggest investment", "get a safe job", "don't take risks"... The fear of standing out from the crowd and FOMO is even stronger with the rise of social media and technology.
 
 > An intelligent person hires people who are more intelligent than he is
 
@@ -122,8 +118,7 @@ Networking and learning from smarter individuals is extremely valuable - learn a
 
 > The most important rule is to know the difference between an asset and liability
 
-Once that has been achieved, concentrate your efforts in buying income-generating assets. The asset column will grow and will become so deep that you can afford to look at more speculative investments: investments that may have returns of 100% to infinite.
-Investments that the middle class term "too risky" - **investment is not risky for the financially literate**.
+Once that has been achieved, concentrate your efforts in buying income-generating assets. The asset column will grow and will become so deep that you can afford to look at more speculative investments: investments that may have returns of 100% to infinite. Investments that the middle class term "too risky" - **investment is not risky for the financially literate**.
 
 Focus on building your asset cash-flows to cover your expenses - this will mean you will no longer be dependent on your employer (company, government, bank).
 
@@ -131,8 +126,7 @@ Focus on building your asset cash-flows to cover your expenses - this will mean 
 
 > The rich focus on their asset columns while everyone else focuses on their income statements
 
-Understand your business and assets e.g. McDonald's real estate is what makes it so valuable and Ray was someone who knew the the significance of all his locations.
-Most people spend their entire lives minding someone elses business and **not their own** - the reward for this is often debt. Your business revolves around the asset column and this is what the rich focuses on - working for an employer is still necessary but remember it should always be a short-term goal.
+Understand your business and assets e.g. McDonald's real estate is what makes it so valuable and Ray was someone who knew the the significance of all his locations. Most people spend their entire lives minding someone elses business and **not their own** - the reward for this is often debt. Your business revolves around the asset column and this is what the rich focuses on - working for an employer is still necessary but remember it should always be a short-term goal.
 
 > Businesses that **I own** do not require my presence, instead they are managed or run by **other people**. If I have to work there, it's not a business - it becomes my job.
 
@@ -171,8 +165,7 @@ It is the synergy of many skills and talents.
 
 > Often in the real word, it's not the smart who get ahead, but the bold.
 
-Financial genius requires both technical knowledge as well as courage - everyone has that brave, brilliant and daring character within them. To let fear an self-doubt suppress your personal genius, you will miss out.
-Boldness will be required to take "risks" and to adapt to change - instead of *dreading change*. Remember to learn to let go of old ideas and be open for new ideas - this is the modern age where information is more accessible than ever.
+Financial genius requires both technical knowledge as well as courage - everyone has that brave, brilliant and daring character within them. To let fear an self-doubt suppress your personal genius, you will miss out. Boldness will be required to take "risks" and to adapt to change - instead of _dreading change_. Remember to learn to let go of old ideas and be open for new ideas - this is the modern age where information is more accessible than ever.
 
 > Games reflect behavior. They are instant feedback systems. See CASHFLOW classic.
 
@@ -182,7 +175,7 @@ This can also be applied to the real-world. Teaching yourself to think and creat
 
 In Monopoly, you see the same kinds of people playing the game: those that say if they had more money, then xyz. Others that read out aloud their opportunity without knowing it is one - most people don't realize their opportunities of a life time and when they do, it's too late.
 
-Financial intelligence is simply having more options. If the opportunities aren't coming your way, what else can you do to improve your financial position? If an opportunity lands in your lap and the bank won't talk to you, what do you do? What else can you do to get the opportunity to work in your favor? If you're hunch is wong, and what you've been counting on doesn't happen, how can you turn a lemon into millions? *This is financial intelligence* - it is how many different financial solutions you can think of to turn a lemon into millions. It is how creative you are in solving financial problems.
+Financial intelligence is simply having more options. If the opportunities aren't coming your way, what else can you do to improve your financial position? If an opportunity lands in your lap and the bank won't talk to you, what do you do? What else can you do to get the opportunity to work in your favor? If you're hunch is wong, and what you've been counting on doesn't happen, how can you turn a lemon into millions? _This is financial intelligence_ - it is how many different financial solutions you can think of to turn a lemon into millions. It is how creative you are in solving financial problems.
 
 Most know only one: work hard, save, and borrow. Instead be someone who creates their own luck.
 
@@ -202,18 +195,17 @@ Investments come and go, market goes up and down as do opportunities and so on. 
 Investors also know how to put pieces together - knowing the bigger picture and how to fit them together can take years but this is where the big wins are.
 
 1. Find an opportunity that everyone else missed.
-    * See with your mind, not your eyes.
+   * See with your mind, not your eyes.
 2. Raise money
-    * Don't just think of borrowing money from the bank.
+   * Don't just think of borrowing money from the bank.
 3. Organize smart people
-    * Intelligent people are those who work with or hire a person who is more intelligent than they are. When you need advice, make sure you choose your advisor wisely.
+   * Intelligent people are those who work with or hire a person who is more intelligent than they are. When you need advice, make sure you choose your advisor wisely.
 
 There is always risk, so learn to manage risk instead of avoiding it.
 
 ### Work to Learn - Don't work for money
 
-> The world is filled with smart, talented, educated, and gifted people. We meet them every day and they are all around us.
-> "They are one skill away from great wealth."
+> The world is filled with smart, talented, educated, and gifted people. We meet them every day and they are all around us. "They are one skill away from great wealth."
 
 Mastering one more skill and their incomes would jump exponentially. Combining skills and knowledge is just like investing - putting the pieces together and the gains are large. When it comes to money however, the only skill most people know is to work hard.
 
@@ -225,7 +217,7 @@ One of the hardest part of running a company is managing people. Rich dad valued
 
 > Once people are trapped in the lifelong process of bill-paying, they become like those little hamsters running around in those metal wheels. Their little legs are spinning furiously, the wheel is turning furiously, but come tomorrow morning, they'll still be in the same cage. Great job.
 
-Take a long view of your life, instead of simply working for the money and security (which is still important), consider a second job that will teach a second skill - for example, a network-marketing company, also called multilevel marketing, if you want to learn sales skills. Learning to overcome fear and rejection are crucial to be successful. The ability to communicate to another human being, be it a customer, employee, boss, etc. is the base skill of personal success. Communication skills such as writing, speaking and negotiating are crucial to a life of success. Be sure to invest in them. *Education is more valuable that money*.
+Take a long view of your life, instead of simply working for the money and security (which is still important), consider a second job that will teach a second skill - for example, a network-marketing company, also called multilevel marketing, if you want to learn sales skills. Learning to overcome fear and rejection are crucial to be successful. The ability to communicate to another human being, be it a customer, employee, boss, etc. is the base skill of personal success. Communication skills such as writing, speaking and negotiating are crucial to a life of success. Be sure to invest in them. _Education is more valuable that money_.
 
 > You can't teach an old dog new tricks.
 
@@ -241,11 +233,11 @@ The main management skills needed for success are:
 
 There are five main reasons why financially literate people may still not develop abundant asset columns that could produce a large cash flow:
 
-1. [Fear](#fear)
-2. [Cynicism](#cynicism)
-3. [Laziness](#laziness)
-4. [Bad habits](#bad-habits)
-5. [Arrogance](#arrogance)
+1. [Fear](2020-04-07-rich-dad-poor-dad.md#fear)
+2. [Cynicism](2020-04-07-rich-dad-poor-dad.md#cynicism)
+3. [Laziness](2020-04-07-rich-dad-poor-dad.md#laziness)
+4. [Bad habits](2020-04-07-rich-dad-poor-dad.md#bad-habits)
+5. [Arrogance](2020-04-07-rich-dad-poor-dad.md#arrogance)
 
 #### Fear
 
@@ -265,7 +257,7 @@ Doubts paralyze us and causes **inaction** - we fail to move forward. Sometimes 
 
 > Busy people are often the most lazy.
 >
-> He works hard to be a good provider for his wife and children. He spends long hours at the office and brings work home on weekends. > Then one day he comes home to an empty house - his wife has left with the kids. He knew there was a relationship problem but rather than work to make it strong, he stayed *busy at work*. Dismayed, his performance drops at work and he loses his job.
+> He works hard to be a good provider for his wife and children. He spends long hours at the office and brings work home on weekends. > Then one day he comes home to an empty house - his wife has left with the kids. He knew there was a relationship problem but rather than work to make it strong, he stayed _busy at work_. Dismayed, his performance drops at work and he loses his job.
 
 Likewise there are many who are too busy to take care of their wealth - the cause is the same. They're busy, and they stay busy as a way of avoiding something they do not want to face. Nobody has to tell them. Deep down they know. In fact, if you remind them, they get annoyed, angry, frustrated.
 
@@ -283,7 +275,7 @@ Now you're forced to open up your brain and find answers. "I can't afford it" ca
 
 > Our lives are a reflection of our habits more than our education.
 
-An example of a good habit of rich people is that they are willing to *reward themselves first* before paying their bills. This isn't to say **not** to pay your bills on time but in the situation when you invest in your assets first but then don't have enough to pay your bills - this is an opportunity.
+An example of a good habit of rich people is that they are willing to _reward themselves first_ before paying their bills. This isn't to say **not** to pay your bills on time but in the situation when you invest in your assets first but then don't have enough to pay your bills - this is an opportunity.
 
 The pressure makes you work hard, forces you to think and all in all, makes you smarter and more active with money. If there's no pressure, you stagnate. Remember that life - bosses, managers, tax collectors etc. - will push you around if you let it.
 
@@ -399,5 +391,4 @@ There are three different types of incomes and in order how heavily taxed:
 
 Know the differences and learn to acquire as much passive income as possible and to retain your wealth. Ordinary earned income is money you work for, and passive and portfolio income is money working for you.
 
-
-*Updated at: 2022-04-02*
+_Updated at: 2022-04-02_

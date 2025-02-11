@@ -1,9 +1,13 @@
+---
+description: 2021.02.11
+---
+
 # Random Facts
 
-* [Sample Rate](#sample-rate)
-* [Bit Rate](#bit-rate)
-* [Cards](#cards)
-* [Semicolons](#semicolons)
+* [Sample Rate](2021-02-11-old-random-facts.md#sample-rate)
+* [Bit Rate](2021-02-11-old-random-facts.md#bit-rate)
+* [Cards](2021-02-11-old-random-facts.md#cards)
+* [Semicolons](2021-02-11-old-random-facts.md#semicolons)
 
 ## Maximum PPI
 
@@ -26,7 +30,7 @@
 
 ## Water resistance
 
-* **IPX6** – Protects from powerful water jets. So if you modified your super soaker with an air compressor and * an aftermarket tip, your stuff is still safe.
+* **IPX6** – Protects from powerful water jets. So if you modified your super soaker with an air compressor and \* an aftermarket tip, your stuff is still safe.
 * **IPX7** – This is for full water splashdown. If you drop your device in water up to 1 metre your device is still going to work.
 
 ## Sample rate
@@ -40,9 +44,7 @@
 
 `Bitrate = Bits Per Sample * Samples Per Second * Channels`
 
-So in this case for stereo the bitrate is `8 * 44100 * 2 = 705 600kbps`
-To get the file size multiply by the bitrate by the duration (in seconds), and divide by 8 (to get from bits to bytes):
-`fileSize = (bitsPerSample * samplesPerSecond * channels * duration) / 8`
+So in this case for stereo the bitrate is `8 * 44100 * 2 = 705 600kbps` To get the file size multiply by the bitrate by the duration (in seconds), and divide by 8 (to get from bits to bytes): `fileSize = (bitsPerSample * samplesPerSecond * channels * duration) / 8`
 
 So in this case 30 seconds of stereo will take up `(8 * 44100 * 2 * 30) / 8 = 2 646 000 bytes`
 
@@ -50,14 +52,11 @@ So in this case 30 seconds of stereo will take up `(8 * 44100 * 2 * 30) / 8 = 2 
 
 ### Light sensor
 
-Larger the sensor the better. If the sensor is too small, it will be limited by how much light it can accept - 'crop' issue if you have a lens with a large aperture? Larger sensors capture more light and produce better images.
-Usually small sensors eg. phone, use image post processing to compensate the size limitation, can produce varied results.
+Larger the sensor the better. If the sensor is too small, it will be limited by how much light it can accept - 'crop' issue if you have a lens with a large aperture? Larger sensors capture more light and produce better images. Usually small sensors eg. phone, use image post processing to compensate the size limitation, can produce varied results.
 
 ### Aperture
 
-Maximum aperture (f/3.5), or how wide the lens can open. A wider aperture means
-it can let in more light. More light means you can take photos more easily where there isn't a lot of lighting.
-Wide apertures are generally considered to be in the range of f/1.4 - f/2.8.
+Maximum aperture (f/3.5), or how wide the lens can open. A wider aperture means it can let in more light. More light means you can take photos more easily where there isn't a lot of lighting. Wide apertures are generally considered to be in the range of f/1.4 - f/2.8.
 
 ## Cards
 
@@ -75,10 +74,10 @@ Wide apertures are generally considered to be in the range of f/1.4 - f/2.8.
 ## Semicolons
 
 * A semicolon is most commonly used to link (in a single sentence) two independent clauses that are closely related in thought. When a semicolon is used to join two or more ideas (parts) in a sentence, those ideas are then given equal position or rank.
-  * *Some people write with a word processor; others write with a pen or pencil.*
+  * _Some people write with a word processor; others write with a pen or pencil._
 * Use a semicolon between two independent clauses that are connected by conjunctive adverbs or transitional phrases.
-  * *But however they choose to write, people are allowed to make their own decisions; as a result, many people swear by their writing methods.*
+  * _But however they choose to write, people are allowed to make their own decisions; as a result, many people swear by their writing methods._
 * Use a semicolon between items in a list or series if any of the items contain commas.
-  * *There are basically two ways to write: with a pen or pencil, which is inexpensive and easily accessible; or by computer and printer, which is more expensive but quick and neat.*
+  * _There are basically two ways to write: with a pen or pencil, which is inexpensive and easily accessible; or by computer and printer, which is more expensive but quick and neat._
 * Use a semicolon between independent clauses joined by a coordinating conjunction if the clauses are already punctuated with commas or if the clauses are lengthy.
-  * *Some people write with a word processor, typewriter, or a computer; but others, for different reasons, choose to write with a pen or pencil.*
+  * _Some people write with a word processor, typewriter, or a computer; but others, for different reasons, choose to write with a pen or pencil._
