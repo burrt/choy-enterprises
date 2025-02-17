@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Running out of time.](README.md)
+* [Running out of time](README.md)
 
 ## Meditations
 
