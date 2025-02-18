@@ -7,6 +7,7 @@
 * [Reputable journalists and news sources](meditations/reputable-journalists-and-news-sources.md)
 * [Why is the pyramid scheme upside down?](meditations/why-is-the-pyramid-scheme-upside-down.md)
 * [Is Pair Programming Dead?](meditations/2024-05-20-is-pair-programming-dead.md)
+* [Oliosophy](meditations/oliosophy.md)
 * [Things in motion](meditations/2022-08-06-things-in-motion.md)
 * [Investing](meditations/2021-09-18-investing.md)
 * [Math Stuff](meditations/2021-04-07-math-stuff.md)
