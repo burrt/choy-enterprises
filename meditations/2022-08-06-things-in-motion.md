@@ -8,4 +8,4 @@ It occurred to me that being in motion is essential to life - being immobile or 
 
 This also extends to non-human aspects such as train tracks - without constant friction, metals corrode and weaken, the earth itself is in continual rotation, space is expanding... We are only without motion at the end of our lifetimes, a sobering thought.
 
-_Update (2024-12-09): what I realised in this blog was actually the Second Law of Thermodynamics - the entropy of an isolated system always increase or remain the same over time._
+_Update 2024-12-09: what I realised in this blog was actually the Second Law of Thermodynamics - the entropy of an isolated system always increase or remain the same over time._
