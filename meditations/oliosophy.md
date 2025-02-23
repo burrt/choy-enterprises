@@ -4,7 +4,7 @@ description: 2021.01.21
 
 # Oliosophy
 
-Oliosophy is a philosophy my squash coach imparted on me over the years; from when I first started learning squash to the realisation his lessons were more than just squash. I never thought I would encounter philosophy on the squash courts, particularly when I was new to the sport but it made all the difference. So you might be wondering, what is "Oliosophy"? Is it just another trending "how to live your life in the 202X world"? No, it is more akin to Marcus Aurelius' _Meditations_, fragmented learnings, lessons and reflections of life...
+Oliosophy is a philosophy my squash coach (Ollie) imparted on me over the years; from when I first started learning squash to the realisation his lessons were more than just squash. I never thought I would encounter philosophy on the squash courts, particularly when I was new to the sport but it made all the difference. So you might be wondering, what is "Oliosophy"? Is it just another trending "how to live your life in the 202X world"? No, it is more akin to Marcus Aurelius' _Meditations_, fragmented learnings, lessons and reflections of life...
 
 ### The River of Life
 
@@ -12,7 +12,7 @@ Oliosophy is a philosophy my squash coach imparted on me over the years; from wh
 >
 > Imagine you are standing by the riverbed watching the water pass you; at a particular moment in time, that is the frame of time you should focus on, it is the moment that matters. Disregard the sticks and debris that float by, focus on that moment instead, deal with what needs to be dealt with, and then move on.
 
-It is essential in squash that you don't waste your energy or focus on the last point that was played, or the one prior - rather it should be dedicated to the point being played. This lesson too can be impressed upon our daily lives, to move on from the past, treat every day a new day and you'll feel much better. And when there are challenges and obstacles, acknowledge and solve them, then move on.
+It is essential in squash that you don't waste your energy or focus on the last point that was played, or the one upcoming - rather it should be dedicated to the point being played. This lesson too can be impressed upon our daily lives, to move on from the past, treat every day a new day and you'll feel much better. And when there are challenges and obstacles, acknowledge and dealth with them, then move on.
 
 ### Never just be _in_ the Game, be _in_ and _out_ of the Game
 
@@ -38,7 +38,7 @@ The power of words is tremendous, many notable psychology studies have shown how
 
 > To change something, first change your thinking.
 
-All those times when my coach was fixing a certain technique of my stroke or when he was teaching me a new one; he would always reply to my struggles with: "change your thinking Geoff." In my attempts to adjust the swing arc or slant of my racquet, the ingrained muscle memory and autonomous nature of my mind resisted the efforts to change - and so it is very tempting to give up. It's easy to say at this point, "it's too hard." But it isn't, and the seeds of change starts by changing your thinking as the brain is what controls everything else, including your muscles.
+All those times when my coach was fixing a certain technique of my stroke or when he was teaching me a new one; he would always reply to my struggles with: "change your thinking Geoff." In my attempts to adjust the swing arc or slant of my racquet, the ingrained muscle memory and autonomous nature of my mind resisted the efforts to change - and so it is very tempting to give up - it's easy to say at this point, "it's too hard." But it isn't, and the seeds of change starts by changing your thinking as the brain is what controls everything else, including your muscles.
 
 And we notice our "it's too hard" mindset all too often, whether that is us or in our colleagues; we spew a list of excuses against change, and our focus is usually directed to the excuses and obstacles, not to our thinking. After all, who likes to blame themselves?
 
@@ -54,6 +54,4 @@ This isn't to encourage being a control-freak or micro-manage, but to identify a
 
 > I know it's cliché but Nike's motto "Just Do It" sums it all up.
 
-Now to put lessons into practice and that makes all the difference.
-
-_Updated: 2022-04-02_
+Now to put lessons into practice and that makes all the difference between you and the rest of the masses.
