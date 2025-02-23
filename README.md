@@ -26,4 +26,5 @@ Some points of interest:
 * [LinkedIn](https://www.linkedin.com/in/geoffrey-choy/)
 * [GitHub](https://github.com/burrt)
 * [My computer science notes](https://cs-docs-2.gitbook.io/notes)
+* [oliosophy.md](meditations/oliosophy.md "mention") - valuable lessons from my squash coach
 * I'm based in London and looking to setup a life support crew - reach out if you're interested
