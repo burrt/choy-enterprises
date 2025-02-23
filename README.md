@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# ⏳ Running out of time.
+# Running out of time
 
 Some points of interest:
 
