@@ -4,7 +4,7 @@ description: 2025.02.15
 
 # Reputable journalists and news sources
 
-### News Sources (free)
+### News Sources
 
 * [https://www.reuters.com/](https://www.reuters.com/)
 * [https://www.reuters.com/world/china/](https://www.reuters.com/world/china/)
