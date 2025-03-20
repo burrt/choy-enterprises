@@ -10,6 +10,7 @@ description: 2025.02.15
 * [https://www.reuters.com/world/china/](https://www.reuters.com/world/china/)
 * [https://www.theguardian.com/uk](https://www.theguardian.com/uk)
 * [https://www.theguardian.com/news/series/the-long-read](https://www.theguardian.com/news/series/the-long-read)
+* The Economist
 
 ### Journalists
 
