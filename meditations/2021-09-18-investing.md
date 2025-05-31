@@ -42,6 +42,7 @@ description: 2021.09.18
 * [VanEck Aus ETFs](https://www.vaneck.com.au/vaneck-etfs/)
 * [Vanguard Aus ETFs](https://www.vanguard.com.au/personal/products/en/overview/etf)
 * [ETF Securities](https://www.etfsecurities.com.au/product)
+* [https://www.tradingview.com/#forex](https://www.tradingview.com/#forex)
 
 ## Global Equities
 
