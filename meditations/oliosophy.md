@@ -12,7 +12,7 @@ Oliosophy is a philosophy my squash coach (Ollie) imparted on me over the years;
 >
 > Imagine you are standing by the riverbed watching the water pass you; at a particular moment in time, that is the frame of time you should focus on, it is the moment that matters. Disregard the sticks and debris that float by, focus on that moment instead, deal with what needs to be dealt with, and then move on.
 
-It is essential in squash that you don't waste your energy or focus on the last point that was played, or the one upcoming - rather it should be dedicated to the point being played. This lesson too can be impressed upon our daily lives, to move on from the past, treat every day a new day and you'll feel much better. And when there are challenges and obstacles, acknowledge and dealth with them, then move on.
+It is essential in squash that you don't waste your energy or focus on the last point that was played, or the one upcoming - rather it should be dedicated to the point being played. This lesson too can be impressed upon our daily lives, to move on from the past, treat every day a new day and you'll feel much better. And when there are challenges and obstacles, acknowledge and deal with them, then move on.
 
 ### Never just be _in_ the Game, be _in_ and _out_ of the Game
 
@@ -20,9 +20,9 @@ It is essential in squash that you don't waste your energy or focus on the last 
 >
 > The game is about moving in and out of it - like your focus on a squash ball; a constant flux of narrow and wide focus.
 
-As you watch the ball in squash come off the racquet strings of your opponent, your focus is narrowed, your vision tunnelled on that single point. Nothing else matters. Then the ball flies off and your focus relaxes, your limbs move as your brain subconsciously maps the trajectory and your vision expands, noticing the opponent move also.
+As you watch the ball in squash come off the racquet strings of your opponent, your focus is narrowed, your vision tunnelled on that single point. The focal point. Nothing else matters. Then the ball flies off and your focus relaxes, your limbs move as your brain subconsciously maps the trajectory and your vision expands, noticing the opponent move also.
 
-We too react like so in life, but most of us are stuck in the game, our focus is narrow, tunnel visioned; spiralling down the rat-race. We fail this basic discipline of taking a step back, re-evaluating, changing and adjusting. There's so many distractions in our daily lives now: social media, FOMO, all swirling in our vision. Understand and notice this in your life and others.
+We too react like so in life, but most of us are stuck in the game, our focus is narrow, tunnel visioned, spiralling down the rat-race. We fail this basic discipline of taking a step back, re-evaluating, changing and adjusting. There's so many distractions in our daily lives now: social media, FOMO, all swirling in our vision. Understand and notice this in your life and others.
 
 ### It's Too Hard
 
@@ -46,7 +46,7 @@ And we notice our "it's too hard" mindset all too often, whether that is us or i
 
 > Before you can control any situation, you must first control yourself.
 
-Control is paramount in squash; they who controls the tempo, their shots, their movements; controls the game. To win a game, you must master your shots and your own movements before you can master the game - how can you master the game if you can't master how and where you hit a squash ball?
+Control is paramount in squash; they who controls the tempo, the rhythm, their movements; controls the game. To win a game, you must master your shots and your own movements before you can master the game - how can you master the game if you can't master how and where you hit a squash ball?
 
 This isn't to encourage being a control-freak or micro-manage, but to identify and understand what to control first before controlling more. It is also critical to know what is outside your sphere of control - do not be tempted to obtain what you cannot control as it comes with a heavy price.
 
