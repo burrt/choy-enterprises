@@ -13,4 +13,3 @@ Some points of interest:
 * [GitHub](https://github.com/burrt)
 * [My computer science notes](https://cse-docs.gitbook.io/notes)
 * [oliosophy.md](meditations/oliosophy.md "mention") - valuable lessons from my squash coach
-* I'm based in London and looking to setup a life support crew - reach out if you're interested
