@@ -8,7 +8,7 @@ Collection of outdated notes from before.
 
 ## Homework
 
-#### **PMI**
+### PMI
 
 * [China Caixin PMI](https://www.investing.com/economic-calendar/chinese-caixin-manufacturing-pmi-753)
 * [China Official PMI](https://www.investing.com/economic-calendar/chinese-manufacturing-pmi-594)
