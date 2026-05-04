@@ -62,8 +62,7 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 
 > Jan 4, 2020
 >
-> Do not fear mistakes. They are the pathway to understanding and mastery\
->
+> Do not fear mistakes. They are the pathway to understanding and mastery<br>
 >
 > Nov 22, 2019
 >
@@ -119,13 +118,11 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 >
 > Oct 5, 2019
 >
-> The most insurmountable barriers are often the greatest opportunities\
->
+> The most insurmountable barriers are often the greatest opportunities<br>
 >
 > Sep 29, 2019
 >
-> To win you must have the courage to fail.\
->
+> To win you must have the courage to fail.<br>
 >
 > Sep 24, 2019
 >
@@ -151,13 +148,11 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 >
 > Sep 17, 2019
 >
-> The most significant question in anyone's life is "to be free from or to be free to."\
->
+> The most significant question in anyone's life is "to be free from or to be free to."<br>
 >
 > Sep 12, 2019
 >
-> Who you are depends on what you have done. Who you become tomorrow depends on what you do today\
->
+> Who you are depends on what you have done. Who you become tomorrow depends on what you do today<br>
 >
 > Sep 11, 2019
 >
@@ -167,13 +162,11 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 >
 > Sep 10, 2019
 >
-> Confusion is simply the forerunner of understanding\
->
+> Confusion is simply the forerunner of understanding<br>
 >
 > Sep 9, 2019
 >
-> One thing I know that increases the more you give it away is Knowledge\
->
+> One thing I know that increases the more you give it away is Knowledge<br>
 >
 > Sep 9, 2019
 >
@@ -183,8 +176,7 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 >
 > Aug 31, 2019
 >
-> I realised this while coaching a difficult student. "The more you do the more you can.\
->
+> I realised this while coaching a difficult student. "The more you do the more you can.<br>
 >
 > Sep 6, 2019
 >
@@ -200,8 +192,7 @@ From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 >
 > Sep 1, 2019
 >
-> It strikes me that the biggest barrier to expansion of an individual's ability is their own negative considerations\
->
+> It strikes me that the biggest barrier to expansion of an individual's ability is their own negative considerations<br>
 >
 > Sep 3, 2019
 >
