@@ -11,7 +11,7 @@ description: 2025.02.15
 * [https://www.theguardian.com/uk](https://www.theguardian.com/uk)
 * [https://www.theguardian.com/news/series/the-long-read](https://www.theguardian.com/news/series/the-long-read)
 * [https://www.ft.com/](https://www.ft.com/)
-* The Economist
+* [https://www.economist.com/](https://www.economist.com/)
 
 ### Journalists
 
