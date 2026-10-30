@@ -58,6 +58,8 @@ Now to put lessons into practice and that makes all the difference between you a
 
 ### Appendix
 
+* [https://web.archive.org/web/20160323085158/http://ollielindsquash.com/perspectives-on-squash/](https://web.archive.org/web/20160323085158/http://ollielindsquash.com/perspectives-on-squash/)
+
 From his old tweets: [https://x.com/OllieLind1](https://x.com/OllieLind1)
 
 > Jan 4, 2020
